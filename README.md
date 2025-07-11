@@ -8,7 +8,7 @@ Built using **React + Tailwind CSS + Framer Motion**, this project was developed
 
 ## 🚀 Live Demo
 
-👉 [View Demo on Vercel](https://www.innergix.com)  
+👉 [View Demo](https://www.innergix.com)  
 
 ---
 
